@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-decoration: underline;
+    -moz-text-decoration-color: blueviolet;
+}
+#unique{
+    text-align: end;
+}
+Body{
+    background-color: antiquewhite;
+}
